@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type="text/xml" href="Site_XML.xsl"?>
+
+
+<XML_evolution_web>
+	
+	<Menu>
+		<lien url="Index.xml">Index</lien>
+		<lien url="Intro.xml">Le XML : Un métalangage</lien>
+		<lien url="Applications.xml">Le XML sur le Web</lien>
+		<lien url="Avantages.xml">Les avantages</lien>
+		<lien url="Securite.xml">La sécurité des données</lien>
+		<lien url="Conclusion.xml">Conclusion</lien>
+	</Menu>
+	
+	<Partie> 
+		<nom_partie> Le XML et la sécurité des données </nom_partie>
+		
+		<sous_partie>
+			<nom_sous_partie> Les différents moyens pour sécuriser </nom_sous_partie>
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>
+			
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla	33	
+			</paragraphe>
+			
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla33
+			</paragraphe>	
+			
+		</sous_partie>
+		
+		<sous_partie>
+			<nom_sous_partie> XML Signature </nom_sous_partie>
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>
+			
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>
+			
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>					
+		</sous_partie>
+		
+		<sous_partie>
+			<nom_sous_partie> XML Encryption </nom_sous_partie>
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>
+			
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>
+			
+			<paragraphe> 
+			blabla
+			blablabla22
+			blabla		33
+			</paragraphe>		
+		</sous_partie>		
+	</Partie>
+	
+</XML_evolution_web>
